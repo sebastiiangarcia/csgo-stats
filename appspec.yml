@@ -1,5 +1,5 @@
 version: 1.0
 os: linux
 files:
-  - source: csgo-stats/log-parser/
+  - source: /
     destination: /home/ubuntu/deploy
